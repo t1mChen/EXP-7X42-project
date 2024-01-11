@@ -1,0 +1,31 @@
+# Fill out all team + team member details below by replacing the content of the
+# respective strings. This file is parsed by our autograding software, so ensure
+# that you only replace the placeholder text, not the keys (e.g. TeamName, etc.)
+
+# 1. Your team's GitHub repository URL for project 2 (*not* project 1)
+RepoURL: https://github.com/COMP30019/project-2-undefined
+
+# 2. Since you are working in the same team for project 2, you should copy the
+#    below keys/values *verbatim* from your project 1 metadata.yml -- do not
+#    change them unless you have permission from the teaching team.
+TeamName: Undefined
+TeamMembers:
+  - Name: Tianxi Chen
+    Email: Tianxic@student.unimelb.edu.au
+  - Name: Yilu Wang
+    Email: Yiluw2@student.unimelb.edu.au
+  - Name: Wancheng Tang
+    Email: wanchengt@student.unimelb.edu.au
+  - Name: Hao Xu
+    Email: haxu4@student.unimelb.edu.au
+
+# 3. The below keys must be filled out by the given milestone deadlines, and
+#    you must also re-submit on Gradescope to register these changes officially
+#    (like in project 1). Read the specification for details.
+
+# Milestone 1 entries
+GameTitle: Exp-7X42
+GameBlurb: Exp-7X42 is a 5-min timed survival first-person shooting (FPS) game set in a virtual world. The operators of the experiment is scientists from the real world, while the player is a test participant by the directors of this experiment. The brain of the player is connected to machines that simulate the test environment, so that their reactions can be examined by scientists. They have established a standard. Only those who are able to survive for more than 5 minutes are considered as successful, which means they will remain alive and ready to participate in the future experiments, otherwise they will be abandoned and executed with death if they fail. You, as one of object being tested, is required to survive from this 5 minutes simulation hosted by immortal scientists, while seeking for resources and avoid getting killed by the enemies. The background of the game will be revealed gradually as the game progresses, which leaves space of imagination for the players themselves to consider.
+
+# Milestone 2 entries
+GameplayVideo: https://youtu.be/MtHmKJSs0_k

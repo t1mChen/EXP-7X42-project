@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5f3c5844f0bcb7b469324b178934b993
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - glassHole: {fileID: 2284187216010955196, guid: 2e95bb315ac1b3e46824e4f94c38268c, type: 3}
+  - wallhole: {fileID: 6226390067288973582, guid: e75bfe8798784724e826dd3803f140b0, type: 3}
+  - explosion: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
